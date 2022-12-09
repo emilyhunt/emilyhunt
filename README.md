@@ -14,7 +14,7 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 - 📖 [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
 
-I mostly work with Python, but I also have experience with C, C++, Java, and webdev (using Svelte as a Javascript framework).
+I mostly work with Python, but I also have experience with Javascript (using Svelte), C, C++, and Java. Also HTML and CSS, if they count.
 
 <!--
 **emilyhunt/emilyhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
