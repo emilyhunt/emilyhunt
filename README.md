@@ -6,13 +6,16 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 ### Some links:
 
-- 🐦 [Twitter](https://twitter.com/emilydoesastro)
+- 🐘 [Mastodon](https://mstdn.social/@emilydoesastro)
+
+- 🐦 [Twitter](https://twitter.com/emilydoesastro) (if you really must use the hell site)
 
 - 🌐 [Personal website](https://emilydoesastro.com/)
 
 - 📧 [Email](mailto:ehunt@lsw.uni-heidelberg.de)
 
 - 📖 [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
+
 
 I mostly work with Python, but I also have experience with Javascript (using Svelte), C, C++, and Java. Also HTML and CSS, if they count.
 
