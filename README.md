@@ -8,7 +8,7 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 - 🐘 [Mastodon](https://mstdn.social/@emilydoesastro)
 
-- 🐦 [Twitter](https://twitter.com/emilydoesastro) (if you really must use the hell site)
+- 🐦 [Twitter](https://twitter.com/emilydoesastro) (if you really must use 🔥 _the hell site_ 🔥)
 
 - 🌐 [Personal website](https://emilydoesastro.com/)
 
