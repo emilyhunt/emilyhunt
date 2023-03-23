@@ -19,6 +19,8 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 I mostly work with Python, but I also have experience with Javascript (using Svelte), C, C++, and Java. Also HTML and CSS, if they count.
 
+![visitors](https://page-views.glitch.me/badge?page_id=emilyhunt.emilyhunt)
+
 <!--
 **emilyhunt/emilyhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
