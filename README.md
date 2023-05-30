@@ -8,16 +8,15 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 - 🐘 [Mastodon](https://mstdn.social/@emilydoesastro)
 
-- 🐦 [Twitter](https://twitter.com/emilydoesastro) (if you really must use 🔥 _the hell site_ 🔥)
+- 🐦 [Twitter](https://twitter.com/emilydoesastro)
 
-- 🌐 [Personal website](https://emilydoesastro.com/)
-
-- 📧 [Email](mailto:ehunt@lsw.uni-heidelberg.de)
+- 📃 [CV](https://github.com/emilyhunt/cv/blob/main/hunt-cv.pdf)
 
 - 📖 [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
 
+- 🌐 [Website](https://emilydoesastro.com/)
+
+- 📧 [Email](mailto:ehunt@lsw.uni-heidelberg.de)
+
 
 I mostly work with Python, but I also have experience with Javascript (using Svelte), C, C++, and Java. Also HTML and CSS, if they count.
-
-<!--- uses https://page-views.glitch.me/ -->
-![Profile Visits](https://page-views.glitch.me/badge?page_id=emilyhunt.emilyhunt)
