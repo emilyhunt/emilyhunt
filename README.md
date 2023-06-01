@@ -10,7 +10,7 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 - 🐦 [Twitter](https://twitter.com/emilydoesastro)
 
-- 📃 [CV](https://github.com/emilyhunt/cv/blob/main/hunt-cv.pdf)
+- 📃 [CV]([https://github.com/emilyhunt/cv/blob/main/hunt-cv.pdf](https://raw.githubusercontent.com/emilyhunt/cv/main/hunt-cv.pdf))
 
 - 📖 [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
 
