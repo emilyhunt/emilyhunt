@@ -6,9 +6,11 @@ I've also dabbled in some side projects, like: a Slack bot that can send [status
 
 ### Some links:
 
+- ☁️ [Bluesky](https://bsky.app/profile/emily.space)
+
 - 🐘 [Mastodon](https://mstdn.social/@emilydoesastro)
 
-- 🐦 [Twitter](https://twitter.com/emilydoesastro)
+- 🐦 [Twitter](https://twitter.com/emilydoesastro) (if you must use the hellsite)
 
 - 📃 [CV](https://raw.githubusercontent.com/emilyhunt/cv/main/hunt-cv.pdf)
 
