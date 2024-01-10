@@ -16,9 +16,9 @@ Some of my other stuff here includes a Slack bot that can send [status updates a
 
 - 🐦 [Bluesky](https://bsky.app/profile/emily.space) / [Mastodon](https://mstdn.social/@emilydoesastro) / [Twitter](https://twitter.com/emilydoesastro)
 
-- 📃 [CV](https://raw.githubusercontent.com/emilyhunt/cv/main/hunt-cv.pdf) / [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
+- 📃 [CV](https://cv.emily.space) / [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
 
-- 🌐 [Website](https://emilydoesastro.com/)
+- 🌐 [Website](https://emily.space)
 
 - 📧 [Email](mailto:ehunt@lsw.uni-heidelberg.de)
 
