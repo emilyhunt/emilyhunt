@@ -8,7 +8,7 @@ Current open-source projects:
 
 ✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models (🆕)
 
-💡 [SmartMultiprocessing](https://github.com/emilyhunt/smartmultiprocessing): multiprocessing with many extra usability features (🆕)
+💡 [SmartMultiprocessing](https://github.com/emilyhunt/smartmultiprocessing): my pet project - Python multiprocessing with many extra usability features (🆕)
 
 Some of my other stuff here includes a Slack bot that can send [status updates about a server's usage](https://github.com/emilyhunt/lsw-slackbot) to a Slack channel, Advent of Code puzzles solved [in your web browser](https://aoc.emilydoesastro.com/) using [Svelte](https://svelte.dev/)/Javascript, and a [Java plugin for Spigot/Minecraft servers](https://github.com/emilyhunt/ScenarioGen) that can be used to script & control events.
 
