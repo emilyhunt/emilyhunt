@@ -10,8 +10,6 @@ Current open-source projects:
 
 💡 [SmartMultiprocessing](https://github.com/emilyhunt/smartmultiprocessing): my pet project - Python multiprocessing with many extra usability features (🆕)
 
-Some of my other stuff here includes a Slack bot that can send [status updates about a server's usage](https://github.com/emilyhunt/lsw-slackbot) to a Slack channel, Advent of Code puzzles solved [in your web browser](https://aoc.emilydoesastro.com/) using [Svelte](https://svelte.dev/)/Javascript, and a [Java plugin for Spigot/Minecraft servers](https://github.com/emilyhunt/ScenarioGen) that can be used to script & control events.
-
 ### Some links:
 
 - 🐦 [Bluesky](https://bsky.app/profile/emily.space) / [Mastodon](https://mstdn.social/@emilydoesastro) / [Twitter](https://twitter.com/emilydoesastro)
@@ -22,4 +20,8 @@ Some of my other stuff here includes a Slack bot that can send [status updates a
 
 - 📧 [Email](mailto:ehunt@lsw.uni-heidelberg.de)
 
-Most familiar with Python, but also have experience with Javascript (using Svelte & Sveltekit), C/C++, and Java (in that order). When I get the time, I want to learn Rust 🦀.
+### Overview
+
+[![emilyhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyhunt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm most familiar with Python, but also have experience with Javascript (using Svelte & Sveltekit), C/C++, and Java (in that order). When I get the time, I want to learn Rust 🦀.
