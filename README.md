@@ -12,7 +12,7 @@ Current open-source projects:
 
 ### Some links:
 
-- 🐦 [Bluesky](https://bsky.app/profile/emily.space) / [Mastodon](https://mstdn.social/@emilydoesastro) / [Twitter](https://twitter.com/emilydoesastro)
+- 🦋 [Bluesky](https://bsky.app/profile/emily.space) (also on [Mastodon](https://mstdn.social/@emilydoesastro) & [Twitter](https://twitter.com/emilydoesastro))
 
 - 📃 [CV](https://cv.emily.space) / [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
 
