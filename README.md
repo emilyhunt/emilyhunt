@@ -18,7 +18,7 @@ Current open-source projects:
 
 - 🌐 [Website](https://emily.space)
 
-- 📧 [Email](mailto:ehunt@lsw.uni-heidelberg.de)
+- 📧 [Email](mailto:emhunt@mpia.de)
 
 ### Overview
 
