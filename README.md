@@ -8,8 +8,6 @@ Current open-source projects:
 
 ✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models (🆕)
 
-💡 [SmartMultiprocessing](https://github.com/emilyhunt/smartmultiprocessing): my pet project - Python multiprocessing with many extra usability features (🆕)
-
 ### Some links:
 
 - 🦋 [Bluesky](https://bsky.app/profile/emily.space) (also on [Mastodon](https://mstdn.social/@emilydoesastro) & [Twitter](https://twitter.com/emilydoesastro))
