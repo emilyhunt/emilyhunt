@@ -8,6 +8,8 @@ Current open-source projects:
 
 ✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models (🆕)
 
+🛹 [SK8plotlib](https://github.com/emilyhunt/SK8plotlib): turn any matplotlib plot into a skateboarding game (🆕)
+
 ### Some links:
 
 - 🦋 [Bluesky](https://bsky.app/profile/emily.space) (also on [Mastodon](https://mstdn.social/@emilydoesastro) & [Twitter](https://twitter.com/emilydoesastro))
