@@ -18,7 +18,7 @@ Current open-source projects:
 
 - 🌐 [Website](https://emily.space)
 
-- 📧 [Email](mailto:emhunt@mpia.de)
+- 📧 [Email](mailto:emily.lauren.hunt@univie.ac.at)
 
 ### Overview
 
