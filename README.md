@@ -2,7 +2,7 @@ I'm an astronomer based in Vienna, Austria. I use clustering algorithms, supervi
 
 Current open-source projects:
 
-🔭 [The Astrosky Ecosystem](https://github.com/bluesky-astronomy): Bluesky integrations that benefit the Astronomy community
+🔭 [The Astrosky Ecosystem](https://github.com/bluesky-astronomy): ATProtocol/Bluesky integrations that benefit the Astronomy community
 
 ✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models
 
