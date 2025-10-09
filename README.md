@@ -1,18 +1,16 @@
-### hey! ✨
-
-I'm an astronomer based in Heidelberg, Germany. I use clustering algorithms, supervised machine learning, and statistical inference to analyse and process data. I'm passionate about open-source code!
+I'm an astronomer based in Vienna, Austria. I use clustering algorithms, supervised machine learning, and statistical inference to analyse and process data.
 
 Current open-source projects:
 
-🔭 [Astronomy on Bluesky](https://github.com/bluesky-astronomy): Bluesky integrations that benefit the Astronomy community
+🔭 [The Astrosky Ecosystem](https://github.com/bluesky-astronomy): Bluesky integrations that benefit the Astronomy community
 
-✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models (🆕)
+✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models
 
-🛹 [SK8plotlib](https://github.com/emilyhunt/SK8plotlib): turn any matplotlib plot into a skateboarding game (🆕)
+🛹 [SK8plotlib](https://github.com/emilyhunt/SK8plotlib): turn any matplotlib plot into a skateboarding game (on hold for now)
 
 ### Some links:
 
-- 🦋 [Bluesky](https://bsky.app/profile/emily.space) (also on [Mastodon](https://mstdn.social/@emilydoesastro) & [Twitter](https://twitter.com/emilydoesastro))
+- 🦋 [Bluesky](https://bsky.app/profile/emily.space)
 
 - 📃 [CV](https://cv.emily.space) / [Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc)
 
@@ -24,4 +22,4 @@ Current open-source projects:
 
 [![emilyhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyhunt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm most familiar with Python, but also have experience with Javascript (using Svelte & Sveltekit), C/C++, and Java (in that order). When I get the time, I want to learn Rust 🦀.
+Languages (in order of proficiency): Python, JavaScript (esp. with Svelte/Sveltekit), SQL, and C.
