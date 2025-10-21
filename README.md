@@ -6,6 +6,8 @@ Current open-source projects:
 
 ✨ [ocelot](https://github.com/emilyhunt/ocelot): a toolkit for working with star cluster data & models
 
+🕵️ [hr_selection_function](https://github.com/emilyhunt/hr_selection_function): little package that calculates the selection function of my Gaia DR3 open cluster catalogue
+
 🛹 [SK8plotlib](https://github.com/emilyhunt/SK8plotlib): turn any matplotlib plot into a skateboarding game (on hold for now)
 
 ### Some links:
